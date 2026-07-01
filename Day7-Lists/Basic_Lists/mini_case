@@ -1,0 +1,20 @@
+If:
+
+List<int> numbers = [
+  10,
+  20,
+  30,
+  40,
+];
+
+What does each print?
+
+print(numbers[0]); #### it prints 10
+
+print(numbers[3]); #### it prints 40
+
+print(numbers.length); #### it prints 4
+
+print(numbers.first); #### it prints 10
+
+print(numbers.last); #### it prints 40
