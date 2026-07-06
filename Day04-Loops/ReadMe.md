@@ -51,7 +51,7 @@ Day4-Loops/
 
 ## What I Found Challenging
 
-Nested loops were the most challenging part today. I had to think about which loop controls the rows and which controls the columns. Once I visualized the execution step by step, it became much easier.
+Nested loops were the most challenging part "../Day4-Loops"today. I had to think about which loop controls the rows and which controls the columns. Once I visualized the execution step by step, it became much easier.
 
 ## Key Takeaway
 
