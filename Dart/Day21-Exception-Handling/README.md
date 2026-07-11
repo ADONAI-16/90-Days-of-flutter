@@ -88,7 +88,7 @@ if (age < 18) {
 
 ### 5. Execution Flow Rule
 
-This is the most important part:
+This is the most important part"../../Day21-Exception-Handling":
 
 * `try` → runs code
 * `catch` → handles error (if any)
@@ -136,20 +136,6 @@ Created a simple banking logic where:
 > A good developer controls them.
 
 ---
-
-## 📈 Progress Update
-
-You’ve now completed:
-
-* Variables
-* Operators
-* Conditions
-* Loops
-* Functions
-* Lists / Sets / Maps
-* OOP (all major parts)
-* Static
-* Exception Handling
 
 Next level unlocked:
 👉 Functional Programming (Lambdas, Closures, Higher-order functions)
